@@ -4,7 +4,7 @@ This project simulates an **Orthogonal Frequency Division Multiplexing (OFDM)** 
 
 ---
 
-## ⚙️ Simulation Parameters
+## Simulation Parameters
 
 | Parameter                 | Value     | Description                                                                 |
 |---------------------------|-----------|-----------------------------------------------------------------------------|
